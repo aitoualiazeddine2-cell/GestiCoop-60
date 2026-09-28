@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\aitou\\source\\repos\\GestiCoop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B7D94419-6496-4924-A1E5-B20F31264A23}|GestiCoop.csproj|c:\\users\\aitou\\source\\repos\\gesticoop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7D94419-6496-4924-A1E5-B20F31264A23}|GestiCoop.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{413962BC-D3F8-5D78-FAE5-227675DAFCF7}|GestiCoop.csproj|c:\\users\\aitou\\source\\repos\\gesticoop\\views\\loginfprm.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{413962BC-D3F8-5D78-FAE5-227675DAFCF7}|GestiCoop.csproj|solutionrelative:views\\loginfprm.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413962BC-D3F8-5D78-FAE5-227675DAFCF7}|GestiCoop.csproj|c:\\users\\aitou\\source\\repos\\gesticoop\\views\\loginfprm.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413962BC-D3F8-5D78-FAE5-227675DAFCF7}|GestiCoop.csproj|solutionrelative:views\\loginfprm.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aitou\\source\\repos\\GestiCoop\\obj\\Debug\\net8.0-windows\\Views\\LoginFprm.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0-windows\\Views\\LoginFprm.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413962BC-D3F8-5D78-FAE5-227675DAFCF7}|GestiCoop.csproj|c:\\users\\aitou\\source\\repos\\gesticoop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{413962BC-D3F8-5D78-FAE5-227675DAFCF7}|GestiCoop.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{413962BC-D3F8-5D78-FAE5-227675DAFCF7}|GestiCoop.csproj|c:\\users\\aitou\\source\\repos\\gesticoop\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{413962BC-D3F8-5D78-FAE5-227675DAFCF7}|GestiCoop.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,7 +90,57 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginFprm.g.cs",
+              "DocumentMoniker": "C:\\Users\\aitou\\source\\repos\\GestiCoop\\obj\\Debug\\net8.0-windows\\Views\\LoginFprm.g.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0-windows\\Views\\LoginFprm.g.cs",
+              "ToolTip": "C:\\Users\\aitou\\source\\repos\\GestiCoop\\obj\\Debug\\net8.0-windows\\Views\\LoginFprm.g.cs",
+              "RelativeToolTip": "obj\\Debug\\net8.0-windows\\Views\\LoginFprm.g.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAkwCoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T15:22:12.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginFprm.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\aitou\\source\\repos\\GestiCoop\\Views\\LoginFprm.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\LoginFprm.xaml.cs",
+              "ToolTip": "C:\\Users\\aitou\\source\\repos\\GestiCoop\\Views\\LoginFprm.xaml.cs",
+              "RelativeToolTip": "Views\\LoginFprm.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T15:21:14.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "LoginFprm.xaml",
+              "DocumentMoniker": "C:\\Users\\aitou\\source\\repos\\GestiCoop\\Views\\LoginFprm.xaml",
+              "RelativeDocumentMoniker": "Views\\LoginFprm.xaml",
+              "ToolTip": "C:\\Users\\aitou\\source\\repos\\GestiCoop\\Views\\LoginFprm.xaml",
+              "RelativeToolTip": "Views\\LoginFprm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-28T14:00:07.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\aitou\\source\\repos\\GestiCoop\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\aitou\\source\\repos\\GestiCoop\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-28T13:23:09.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\aitou\\source\\repos\\GestiCoop\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
