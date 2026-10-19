@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GestiCoop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d789b15336f86de015470aeabd3781232f0d7ea7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d921e5aa9de11b94f6e747ac0474688e521c570")]
 [assembly: System.Reflection.AssemblyProductAttribute("GestiCoop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GestiCoop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
