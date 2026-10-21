@@ -1,6 +1,4 @@
-C:\Users\aitou\source\repos\GestiCoop\obj\Debug\net8.0-windows\Views\LoginFprm.baml
 C:\Users\aitou\source\repos\GestiCoop\obj\Debug\net8.0-windows\MainWindow.g.cs
-C:\Users\aitou\source\repos\GestiCoop\obj\Debug\net8.0-windows\Views\LoginFprm.g.cs
 C:\Users\aitou\source\repos\GestiCoop\obj\Debug\net8.0-windows\App.g.cs
 C:\Users\aitou\source\repos\GestiCoop\obj\Debug\net8.0-windows\GestiCoop_MarkupCompile.cache
 C:\Users\aitou\source\repos\GestiCoop\obj\Debug\net8.0-windows\GestiCoop_MarkupCompile.lref
@@ -22,3 +20,9 @@ C:\Users\aitou\source\repos\GestiCoop\obj\Debug\net8.0-windows\GestiCoop.pdb
 C:\Users\aitou\source\repos\GestiCoop\obj\Debug\net8.0-windows\GestiCoop.genruntimeconfig.cache
 C:\Users\aitou\source\repos\GestiCoop\obj\Debug\net8.0-windows\ref\GestiCoop.dll
 C:\Users\aitou\source\repos\GestiCoop\obj\Debug\net8.0-windows\GestiCoop.csproj.Up2Date
+C:\Users\aitou\source\repos\GestiCoop\obj\Debug\net8.0-windows\Views\Gestion.baml
+C:\Users\aitou\source\repos\GestiCoop\obj\Debug\net8.0-windows\Views\Gestion.g.cs
+C:\Users\aitou\source\repos\GestiCoop\obj\Debug\net8.0-windows\Views\LoginForm.baml
+C:\Users\aitou\source\repos\GestiCoop\obj\Debug\net8.0-windows\Views\LoginForm.g.cs
+C:\Users\aitou\source\repos\GestiCoop\obj\Debug\net8.0-windows\Views\AjouterEtudiantWindow.baml
+C:\Users\aitou\source\repos\GestiCoop\obj\Debug\net8.0-windows\Views\AjouterEtudiantWindow.g.cs
